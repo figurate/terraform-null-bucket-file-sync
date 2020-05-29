@@ -1,4 +1,8 @@
-Sync local files with an S3-compatible public Cloud bucket.
+# ![AWS](aws-logo.png) Bucket File Sync
+
+Purpose: Sync local files with an S3-compatible public Cloud bucket.
+
+Rationale: Provide utility functions for managing Bucket content.
 
 ## Requirements
 
