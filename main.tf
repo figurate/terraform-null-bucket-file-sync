@@ -1,6 +1,9 @@
 /**
  * # ![AWS](aws-logo.png) Bucket File Sync
  *
+ * [![CI](https://github.com/figurate/terraform-null-bucket-file-sync/actions/workflows/main.yml/badge.svg)](https://github.com/figurate/terraform-null-bucket-file-sync/actions/workflows/main.yml)
+ *
+ *
  * Purpose: Sync local files with an S3-compatible public Cloud bucket.
  *
  * Rationale: Provide utility functions for managing Bucket content.
